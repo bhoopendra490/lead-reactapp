@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4d4f32b8.css",
-    "main.js": "/static/js/main.fe487f1b.js",
+    "main.js": "/static/js/main.aaa7a7c3.js",
     "static/js/453.6e015c86.chunk.js": "/static/js/453.6e015c86.chunk.js",
     "static/media/Gradient.png": "/static/media/Gradient.387429af790589742c08.png",
     "static/media/box-effect1.png": "/static/media/box-effect1.b0d5d52d7f44083c79e4.png",
@@ -32,11 +32,11 @@
     "static/media/tick-icn.svg": "/static/media/tick-icn.0e1b60cfe6a95251e20c.svg",
     "static/media/tick-icon-white.svg": "/static/media/tick-icon-white.401a54385f6d4cc14232.svg",
     "main.4d4f32b8.css.map": "/static/css/main.4d4f32b8.css.map",
-    "main.fe487f1b.js.map": "/static/js/main.fe487f1b.js.map",
+    "main.aaa7a7c3.js.map": "/static/js/main.aaa7a7c3.js.map",
     "453.6e015c86.chunk.js.map": "/static/js/453.6e015c86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d4f32b8.css",
-    "static/js/main.fe487f1b.js"
+    "static/js/main.aaa7a7c3.js"
   ]
 }
