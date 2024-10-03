@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d088c0d8.css",
+    "main.js": "/static/js/main.79d7a4f6.js",
+    "static/js/453.6e015c86.chunk.js": "/static/js/453.6e015c86.chunk.js",
+    "static/media/Gradient.png": "/static/media/Gradient.387429af790589742c08.png",
+    "static/media/box-effect1.png": "/static/media/box-effect1.b0d5d52d7f44083c79e4.png",
+    "static/media/banner-mg.jpg": "/static/media/banner-mg.c3c8beb656990caef733.jpg",
+    "static/media/carousel-card-gray.jpg": "/static/media/carousel-card-gray.01c05b5d74677bc8c870.jpg",
+    "static/media/vsl-logo.svg": "/static/media/vsl-logo.d6bc8efacde682abbe1dad20f9dab8a9.svg",
+    "static/media/logo.svg": "/static/media/logo.83d572524fcdf5df3f66587c4fbcf636.svg",
+    "static/media/Number-3-Three--Streamline-Retro.svg": "/static/media/Number-3-Three--Streamline-Retro.7724ece97a610d74f8d5711e7109232b.svg",
+    "static/media/Number-2-Two--Streamline-Retro.svg": "/static/media/Number-2-Two--Streamline-Retro.13b9c81e040e7110a60035b583316c13.svg",
+    "static/media/Number-1-One--Streamline-Retro.svg": "/static/media/Number-1-One--Streamline-Retro.c3aa04057fc79b9ea448c2efe6e6529f.svg",
+    "static/media/Number-4-Four--Streamline-Retro.svg": "/static/media/Number-4-Four--Streamline-Retro.080f00832c6a03135b0dbb4eb4bd996b.svg",
+    "index.html": "/index.html",
+    "static/media/Cross--Streamline-Retro.svg": "/static/media/Cross--Streamline-Retro.99724f44f1b4b8229d79a45107c16172.svg",
+    "static/media/z-mobile.svg": "/static/media/z-mobile.e3b6bb2814beaad14db7e0a55f2ae490.svg",
+    "static/media/z-desktop.svg": "/static/media/z-desktop.f028907ec9174f0ab35527dc2133f85b.svg",
+    "static/media/Arch-Curve-2--Streamline-Retro.svg": "/static/media/Arch-Curve-2--Streamline-Retro.cb3a801de04c29e54d187008f82dd2d5.svg",
+    "static/media/eye.svg": "/static/media/eye.c8674879594fb0719ef810f852664846.svg",
+    "static/media/Cursor-Head--Streamline-Retro.svg": "/static/media/Cursor-Head--Streamline-Retro.a5f905c2c6b11658a8fa3f9c98b8003d.svg",
+    "static/media/play-icon.svg": "/static/media/play-icon.cc06598a0b324023ab7e7d6e0e12ff07.svg",
+    "static/media/admin-user-icn.svg": "/static/media/admin-user-icn.d86f733e4ab25b0b5e2d9055bf173f9e.svg",
+    "static/media/upload-icn.svg": "/static/media/upload-icn.8b10c50c91c544dce37470be4d60235c.svg",
+    "static/media/upload-icn-black.svg": "/static/media/upload-icn-black.e38a2892341cbbe2e61bbed3f43104f7.svg",
+    "static/media/download-icn.svg": "/static/media/download-icn.61866232ab8c66e2321154bebc310d7f.svg",
+    "static/media/power-obj3.svg": "/static/media/power-obj3.edc68cc92bf3e420361f785a033cc1a2.svg",
+    "static/media/power-obj2.svg": "/static/media/power-obj2.aaef785492b9e98304ee7f336af18cce.svg",
+    "static/media/power-obj1.svg": "/static/media/power-obj1.91122e124c71a22021d10b070764e643.svg",
+    "static/media/btn-arrow.svg": "/static/media/btn-arrow.1c0559fb0a485091ffda4d2e72d3061f.svg",
+    "static/media/arrow-orange.svg": "/static/media/arrow-orange.076270438888950d3cfa93999a167cd4.svg",
+    "static/media/tick-icn.svg": "/static/media/tick-icn.0e1b60cfe6a95251e20c.svg",
+    "static/media/tick-icon-white.svg": "/static/media/tick-icon-white.401a54385f6d4cc14232.svg",
+    "main.d088c0d8.css.map": "/static/css/main.d088c0d8.css.map",
+    "main.79d7a4f6.js.map": "/static/js/main.79d7a4f6.js.map",
+    "453.6e015c86.chunk.js.map": "/static/js/453.6e015c86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d088c0d8.css",
+    "static/js/main.79d7a4f6.js"
+  ]
+}
