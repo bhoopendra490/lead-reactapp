@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7278a013.css",
-    "main.js": "/static/js/main.72489ce9.js",
+    "main.css": "/static/css/main.b2d25c60.css",
+    "main.js": "/static/js/main.b270c647.js",
     "static/js/453.6e015c86.chunk.js": "/static/js/453.6e015c86.chunk.js",
     "static/media/Gradient.png": "/static/media/Gradient.387429af790589742c08.png",
     "static/media/login-bg.png": "/static/media/login-bg.73f9297885266cd898b6.png",
@@ -29,15 +29,16 @@
     "static/media/power-obj2.svg": "/static/media/power-obj2.aaef785492b9e98304ee7f336af18cce.svg",
     "static/media/power-obj1.svg": "/static/media/power-obj1.91122e124c71a22021d10b070764e643.svg",
     "static/media/btn-arrow.svg": "/static/media/btn-arrow.1c0559fb0a485091ffda4d2e72d3061f.svg",
+    "static/media/arrow-black.svg": "/static/media/arrow-black.5594ed534b5f0e7a0f90d18e9501c458.svg",
     "static/media/arrow-orange.svg": "/static/media/arrow-orange.076270438888950d3cfa93999a167cd4.svg",
     "static/media/tick-icn.svg": "/static/media/tick-icn.0e1b60cfe6a95251e20c.svg",
     "static/media/tick-icon-white.svg": "/static/media/tick-icon-white.401a54385f6d4cc14232.svg",
-    "main.7278a013.css.map": "/static/css/main.7278a013.css.map",
-    "main.72489ce9.js.map": "/static/js/main.72489ce9.js.map",
+    "main.b2d25c60.css.map": "/static/css/main.b2d25c60.css.map",
+    "main.b270c647.js.map": "/static/js/main.b270c647.js.map",
     "453.6e015c86.chunk.js.map": "/static/js/453.6e015c86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7278a013.css",
-    "static/js/main.72489ce9.js"
+    "static/css/main.b2d25c60.css",
+    "static/js/main.b270c647.js"
   ]
 }
