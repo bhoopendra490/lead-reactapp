@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.982ee12d.css",
-    "main.js": "/static/js/main.b270c647.js",
+    "main.css": "/static/css/main.d832b19b.css",
+    "main.js": "/static/js/main.b802bedc.js",
     "static/js/453.6e015c86.chunk.js": "/static/js/453.6e015c86.chunk.js",
     "static/media/Gradient.png": "/static/media/Gradient.387429af790589742c08.png",
     "static/media/login-bg.png": "/static/media/login-bg.73f9297885266cd898b6.png",
@@ -33,12 +33,12 @@
     "static/media/arrow-orange.svg": "/static/media/arrow-orange.076270438888950d3cfa93999a167cd4.svg",
     "static/media/tick-icn.svg": "/static/media/tick-icn.0e1b60cfe6a95251e20c.svg",
     "static/media/tick-icon-white.svg": "/static/media/tick-icon-white.401a54385f6d4cc14232.svg",
-    "main.982ee12d.css.map": "/static/css/main.982ee12d.css.map",
-    "main.b270c647.js.map": "/static/js/main.b270c647.js.map",
+    "main.d832b19b.css.map": "/static/css/main.d832b19b.css.map",
+    "main.b802bedc.js.map": "/static/js/main.b802bedc.js.map",
     "453.6e015c86.chunk.js.map": "/static/js/453.6e015c86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.982ee12d.css",
-    "static/js/main.b270c647.js"
+    "static/css/main.d832b19b.css",
+    "static/js/main.b802bedc.js"
   ]
 }
