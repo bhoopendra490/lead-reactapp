@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1d8b6696.css",
-    "main.js": "/static/js/main.9e4a5be3.js",
+    "main.js": "/static/js/main.54b9846d.js",
     "static/js/453.6e015c86.chunk.js": "/static/js/453.6e015c86.chunk.js",
     "static/media/Gradient.png": "/static/media/Gradient.387429af790589742c08.png",
     "static/media/login-bg.png": "/static/media/login-bg.73f9297885266cd898b6.png",
@@ -34,11 +34,11 @@
     "static/media/tick-icn.svg": "/static/media/tick-icn.0e1b60cfe6a95251e20c.svg",
     "static/media/tick-icon-white.svg": "/static/media/tick-icon-white.401a54385f6d4cc14232.svg",
     "main.1d8b6696.css.map": "/static/css/main.1d8b6696.css.map",
-    "main.9e4a5be3.js.map": "/static/js/main.9e4a5be3.js.map",
+    "main.54b9846d.js.map": "/static/js/main.54b9846d.js.map",
     "453.6e015c86.chunk.js.map": "/static/js/453.6e015c86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d8b6696.css",
-    "static/js/main.9e4a5be3.js"
+    "static/js/main.54b9846d.js"
   ]
 }
